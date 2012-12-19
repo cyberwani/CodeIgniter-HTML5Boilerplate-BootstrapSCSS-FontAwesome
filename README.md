@@ -7,5 +7,5 @@ CodeIgniter 2.1.3<br>
 HTML5 Boilerplate 4.0.2<br>
 Modernizr 2.6.2<br>
 JQuery 1.8.3<br>
-Bootstrap > https://github.com/thomas-mcdonald/bootstrap-sass<br>
+Bootstrap 2.2.2 > https://github.com/jlong/sass-twitter-bootstrap<br>
 FontAwesome 2.0
